@@ -5,7 +5,7 @@ Books App is a simple small application to manage the books in a store.
 - Light weight
 - Modern UI
 - Easy to use
--
+
 ## Dependencies
 - Web Server (Xampp / Wampp)
 - php 5 or higher
