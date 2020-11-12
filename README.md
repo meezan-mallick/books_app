@@ -26,11 +26,11 @@ git clone https://github.com/meezan-mallick/books_app
 ```
 2) Turn on the web server (Apache and phpmyadmin)
 3) Setup database credentials in database.php file
-  >> import the database script file "books_app.sql" and run <br>
-  >> open the database.php file and edit accordingly
-  ```php
-  define(DB_NAME,"<database_name>")
-  ```
+    import the database script file "books_app.sql" and run <br>
+    open the database.php file and edit accordingly
+    ```php
+    define(DB_NAME,"<database_name>")
+    ```
 4) open the browser and run the app
 
 ## Screen Shots
